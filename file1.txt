@@ -1,1 +1,2 @@
 adding first file using git and using push option
+adding first file for the second time and comitting the code
